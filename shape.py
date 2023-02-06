@@ -12,4 +12,4 @@ def myfun():
         t.forward(x)
         t.left(59)
 myfun()
-time.sleep(5)
+time.sleep(4)
